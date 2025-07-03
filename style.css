@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 22px;
+    
+
+}
+nav{
+    background-color: aliceblue;
+    padding: 20px;
+}
+footer{
+    background-color: aliceblue;
+    color: black;
+    padding: 20px;
+}
